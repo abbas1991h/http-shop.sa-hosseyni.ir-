@@ -1,5 +1,7 @@
-پیاده سازی فروشگاه حسینی با زبان جاوااسکریپت واستفاده از چارچوب 
-NODEJSو
-استفاده از زیر چارچوب:
-React
-نمای برخط:
+<div dir=rtl>
+  <h2> لینک پروژه:</h2>
+<ul>
+<li><a href="https://app-dreams.glitch.me/">- [نمای برخط پروژه]</a></li></li>
+<li><a href="https://github.com/polbadman/glitchrepo">- [لینک کد منبع پروژه]</li>
+</ul>
+</div>
